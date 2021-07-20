@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OMS": {
+      "commandName": "Project",
+      "commandLineArgs": "install"
+    }
+  }
+}
